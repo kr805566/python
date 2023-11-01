@@ -1,0 +1,3 @@
+#chromeDriver 需依Chrome版本下載 並放入 ./chromedriver/chromedriver
+
+#英文景點名 S='景點A' 並建立資料夾 ./景點A
